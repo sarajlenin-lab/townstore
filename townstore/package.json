@@ -25,3 +25,8 @@
   "vite": "^5.5.1",
   "@vitejs/plugin-react": "^4.4.0"
 }
+"scripts": {
+  "dev": "vite",
+  "build": "npx vite build",
+  "preview": "npx vite preview"
+}
